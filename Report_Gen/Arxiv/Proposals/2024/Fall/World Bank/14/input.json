@@ -1,0 +1,39 @@
+{
+  "Project Location": {
+    "Number": "14",
+    "Year": "2024",
+    "Semester": "Fall"
+  },
+  "Project Information": {
+    "WB_lead": "Alejandro Molnar",
+    "unit_name": "Development Research Group",
+    "project_name": "Economic Development through a Spatial Lens. RA-P180214-RESE-TF0B979",
+    "project_lead": "Forhad Shilpi, fshilip@worldbank.org",
+    "team_members": "Matias Navarro, PhD student, Cornell University"
+  },
+  "Challenge": {
+    "challenge_location": "Multiple projects, depending on student fit and interest:\n- Bangladesh\n- India\n- Rwanda\n- Cape Town, South Africa\n",
+    "challenge_type": "- Bangladesh: value of bridges to transportation network connectivity\n- India: analysis of freight costs using data from a digital freight matching platform\n- Rwanda: analysis of telemetry data\n- Cape Town: impact on commuters from transportation service quality",
+    "solution_beneficiaries": "\nAll projects are academic research, beneficiaries vary by project\n            "
+  },
+  "Status and Timeline": {
+    "project_status": "Varies by project, can adapt to student requirements and availability\n            ",
+    "project_milestones": "\nVaries by project, can adapt to student availability\n            ",
+    "lead_meeting": "Yes"
+  },
+  "Data": {
+    "dataset_size": "Varies, from 2 gb to 50gb\n",
+    "data_type": "\n1. Text\n2. Image\n3. Time series/Panel data\n4. Tabular\n            ",
+    "data_details": "\nMany types of data and tasks, can be adapted based on student capabilities and interest.\n            ",
+    "STC_requirement": "Yes",
+    "data_sample": "Yes",
+    "ultimate_goal": "The ultimate goals are estimating parameters in economic models, and producing quantitative insights from those models. The goal is not prediction.",
+    "additional_comments": "A brief discussion w/ academic advisors might be required to identify fit."
+  },
+  "Proposed by": "World Bank",
+  "Proposed by email": "firstname_lastname@worldbank.org",
+  "instructor": "Amir Jafari & Edwin Lo",
+  "instructor1_email": "ajafari@gmail.com",
+  "instructor2_email": "edwinlo@gwu.edu",
+  "github_repo": "https://github.com/amir-jafari/Capstone"
+}

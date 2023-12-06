@@ -1,0 +1,39 @@
+{
+  "Project Location": {
+    "Number": "03",
+    "Year": "2024",
+    "Semester": "Fall"
+  },
+  "Project Information": {
+    "WB_lead": "Muneeza Alam",
+    "unit_name": "MENA Transport Global Practice",
+    "project_name": "REGIONAL RAILWAY CONNECTIVITY IN MENA: BETWEEN GCC AND MASHREQ COUNTRIES AND BEYOND (P178510)",
+    "project_lead": "Yes",
+    "team_members": "\nNobu Daito\nRoger Gorham\nJoanna Moody\nRobin Carruthers\n            "
+  },
+  "Challenge": {
+    "challenge_location": "Middle East and North Africa",
+    "challenge_type": "Assess the demand potential for high- and medium- speed passenger railways",
+    "solution_beneficiaries": "\nThe primary beneficiaries will be the transport ministries of countries in the Middle East and North Africa. High Speed and Medium Speed Railways are a new but potentially growing line of business in MNA. Many countries in the region are already building or have announced plans to build High Speed Railways . In the next five years, we expect countries in MENA to approach the WB for advice and support in the future Therefore, undertaking this activity will yield significant benefits in the future. The ASA is also expected to yield tangible benefits for the current pipeline portfolio and will inform the ongoing operational engagement. By examining the potential for HSRs, the ASA will contribute to ongoing Bank-financed investments supporting economic corridor development, with a long-term view of transforming MENA into a preeminent connectivity node.\n            "
+  },
+  "Status and Timeline": {
+    "project_status": "We want to undertake some exploratory analysis to estimate the demand potential for high and medium speed railways in MENA.\\ We want to estimate a gravity model to address the following questions:\\ 1. Would High Speed or Medium Speed railways provide a competitive alternative within the MNA region that can shift travel away from more polluting modes, like air and road?\\ 2. Under what circumstances (for example, pricing regimes) and on what routes would HSR or conventional railways have the most potential demand/ridership?\\ We have access to aviation data that would be useful for this work and many other datasets.\n            ",
+    "project_milestones": "\nThe exploratory work needs to be completed by end of December 2023. The eventual goal is that this model would become a Working Paper in the World Bank Working Paper Series.\n            ",
+    "lead_meeting": "Yes"
+  },
+  "Data": {
+    "dataset_size": "1-5 GB",
+    "data_type": "\n1. Tabular\n2. We have different datasets that will be used. All of them are quantitate in nature. Geospatial elements will also be important.\n            ",
+    "data_details": "\n1. Aviation data (OAG-Official Airline Guide: the Official Airline Guide (OAG) is an air travel intelligence reference that provides data on airline schedules, cargo and aviation analytics)\n2. Population data from WorldPop)\n3. Data on AADT by highway sections\n4. Border crossing data for cars\n5. Proposed alignment of regional railways indicating which cities will be connected by highspeed and mediumspeed railways.\n            ",
+    "STC_requirement": "Yes",
+    "data_sample": "Yes",
+    "ultimate_goal": "The ultimate goal of the project is to assess how much modal shift from air transport and road transport) could be attracted to high and medium speed railways if \n            they were built in the Middle East and North Africa Region.",
+    "additional_comments": "Nothing to be noted."
+  },
+  "Proposed by": "World Bank",
+  "Proposed by email": "firstname_lastname@worldbank.org",
+  "instructor": "Amir Jafari & Edwin Lo",
+  "instructor1_email": "ajafari@gmail.com",
+  "instructor2_email": "edwinlo@gwu.edu",
+  "github_repo": "https://github.com/amir-jafari/Capstone"
+}

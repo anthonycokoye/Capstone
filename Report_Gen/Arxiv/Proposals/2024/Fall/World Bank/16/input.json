@@ -1,0 +1,39 @@
+{
+  "Project Location": {
+    "Number": "16",
+    "Year": "2024",
+    "Semester": "Fall"
+  },
+  "Project Information": {
+    "WB_lead": "William Seitz",
+    "unit_name": "EAP Poverty and Equity",
+    "project_name": "Indonesia Poverty and Equity Program (P181107)",
+    "project_lead": "Yes",
+    "team_members": "Ririn Salwa Purnamasari; Samuel Nursamsu; Bambang Suharnoko Sjahrir; Imam Setiawan; Cigdem Celik."
+  },
+  "Challenge": {
+    "challenge_location": "Indonesia\n",
+    "challenge_type": "Spatial transformation and connectivity flagship report.",
+    "solution_beneficiaries": "\nThe people of Indonesia\n            "
+  },
+  "Status and Timeline": {
+    "project_status": "In preparatory stage (all data are available).\n            ",
+    "project_milestones": "\nPreparatory stage through June 2024.\n            ",
+    "lead_meeting": "Yes"
+  },
+  "Data": {
+    "dataset_size": "There are several datasets that will be used including AIS (shipping transponder) data, household survey, and census data\n",
+    "data_type": "\n1. Tabular\n            ",
+    "data_details": "\nThere are several datasets that will be used including AIS (shipping transponder) data, household survey, and census data.\n            ",
+    "STC_requirement": "Yes, students could being immediately.",
+    "data_sample": "Yes",
+    "ultimate_goal": "Insights into structural transformation for Indonesia.\n",
+    "additional_comments": "No"
+  },
+  "Proposed by": "World Bank",
+  "Proposed by email": "firstname_lastname@worldbank.org",
+  "instructor": "Amir Jafari & Edwin Lo",
+  "instructor1_email": "ajafari@gmail.com",
+  "instructor2_email": "edwinlo@gwu.edu",
+  "github_repo": "https://github.com/amir-jafari/Capstone"
+}

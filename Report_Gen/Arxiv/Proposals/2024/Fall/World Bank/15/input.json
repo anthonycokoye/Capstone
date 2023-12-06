@@ -1,0 +1,39 @@
+{
+  "Project Location": {
+    "Number": "15",
+    "Year": "2024",
+    "Semester": "Fall"
+  },
+  "Project Information": {
+    "WB_lead": "Solomon Kagulura",
+    "unit_name": "HNP",
+    "project_name": "P174185",
+    "project_lead": "John Makumba",
+    "team_members": "Aya Kagota , wisdom Mulenga"
+  },
+  "Challenge": {
+    "challenge_location": "National Health Accounts Producer Tool Use\n",
+    "challenge_type": "National Health Accounts Data Analysis",
+    "solution_beneficiaries": "\nMinistry Of Health\n            "
+  },
+  "Status and Timeline": {
+    "project_status": "Early ideation\n            ",
+    "project_milestones": "\nYes. Need to produce NHA report 2018 to 2022\n            ",
+    "lead_meeting": "Yes"
+  },
+  "Data": {
+    "dataset_size": "Not Sure but constitute 5 questionnaires from several respondents\n",
+    "data_type": "\n1. Text\n2. Time series/Panel data\n3. Tabular\n            ",
+    "data_details": "\nHealth Expenditure Tracking from Employers, Households, Donors , Government , NGOs , Insurance Firms analyzed by disease and health service providers\n            ",
+    "STC_requirement": "Students will need to collect the data. Data Not Available as at now",
+    "data_sample": "Yes",
+    "ultimate_goal": "We need to know Performance of Health Financing Indicators such as Total Health Expenditure , Out of pocket expenditure , inpatient and outpatient costs etc\n",
+    "additional_comments": "This will be a national health accounts data collection, analysis and documentation exercise."
+  },
+  "Proposed by": "World Bank",
+  "Proposed by email": "firstname_lastname@worldbank.org",
+  "instructor": "Amir Jafari & Edwin Lo",
+  "instructor1_email": "ajafari@gmail.com",
+  "instructor2_email": "edwinlo@gwu.edu",
+  "github_repo": "https://github.com/amir-jafari/Capstone"
+}

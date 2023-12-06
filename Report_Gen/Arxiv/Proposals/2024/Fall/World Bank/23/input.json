@@ -1,0 +1,39 @@
+{
+  "Project Location": {
+    "Number": "23",
+    "Year": "2024",
+    "Semester": "Fall"
+  },
+  "Project Information": {
+    "WB_lead": "Ryan Rafaty",
+    "unit_name": "Public Institutions Data and Analytics Unit of the Governance Global Practice",
+    "project_name": "Political Economy of Climate Change - P180308",
+    "project_lead": "Laura Zoratto - lzoratto@worldbank.org",
+    "team_members": "Verena Fritz - vfritz@worldbank.org\nRyan Rafaty - rrafaty@worldbank.org\nAbdulaziz Almuzaini - aalmuzaini@worldbank.org\nChiara Bronchi - cbronchi@worldbank.org"
+  },
+  "Challenge": {
+    "challenge_location": "Low- and Middle-Income Countries (LMIC), broadly speaking, with particular attention to the LMICs with whom the Bank's Governance Global Practice is currently\nengaged in public financial management reforms that will support national responses to the risks of climate change.\n",
+    "challenge_type": "Mitigating and adapting to the risks of anthropogenic climate change requires foresighted, strategic, and expeditious action from national governments. Countries\nhave adopted different approaches to climate change, both with respect to mitigation and adaptation, and we don\u2019t fully\nunderstand why. While much is already known about the inherent difficulties of climate policymaking, much less is known about (1) the institutional design\nfeatures that may help in mitigating or overcoming fundamental problems in the global cooperative effort; (2) factors that are driving variation in climate policies at\nnational and subnational levels; and (3) driving forces\nof climate policy beyond the state, in particular civil society, the science-policy interface, and public opinion. The Climate Change Institutional Assessment (CCIA)\nand the Country-Level Institutional Assessment and Review (CLIAR) database are two of the products of the World Bank's Governance Global Practice. Working\nwith our Unit, the student will apply their applied econometric and/or data science skills to help us further develop the data and analytics underpinning CCIAs and\nCLIAR. The work will assist in providing guidance on conducting systematic, context-driven, and empirically grounded reviews of national institutions, with the goal\nof influencing climate policy dialogue and informing the design of country engagement products.\n",
+    "solution_beneficiaries": "\nThe World Bank's Public Institutions Data and Analytics Unit, within the Governance Global Practice, provides strategy and support for within-country governance\nreforms, serves as a hub for data on government and governance patterns in developing countries, and supports a repository of key global, regional, and country\nanalytical studies. The main beneficiaries of the data and analytics produced in this project will be the client governments, civil servants, and citizens of the low\u0002and middle-income countries with whom the Bank's Governance Global Practice is engaged in climate-related lending, public financial management reform, and\ndevelopment policy financing.\n            "
+  },
+  "Status and Timeline": {
+    "project_status": "Stage II (currently undergoing internal quality enhancement review, with a view towards launching a revamped version of both CCIAs and the CLIAR database).\n            ",
+    "project_milestones": "\nCCIA enhancement is an ongoing endeavor, while the CLIAR database (2.0) will be launched in the first quarter of 2024. We will be regularly updating and\nupgrading the underlying data and analytics that feed into both of these knowledge products.\n            ",
+    "lead_meeting": "Yes"
+  },
+  "Data": {
+    "dataset_size": "Less than 1 GB\n",
+    "data_type": "\n1. Time series/Panel data\n            ",
+    "data_details": "\nThe CLIAR database consists of a large number of variables from multiple (World Bank and other) data sources. The variables are in panel time series format\n(cross-country, 1990-2022), with over 180 countries included. The data contained within it relate to political, institutional, economic, and policy-related features of\ncountries, and the information is used to inform the Bank's Climate Change Institutional Assessment (CCIA) of countries, a data product that feeds into the Bank's\nCountry Climate and Development Reports (CCDR).\n            ",
+    "STC_requirement": "The student would be able to access the underlying data immediately upon commencement of the project.",
+    "data_sample": "Yes",
+    "ultimate_goal": "The ultimate goal of the project is to (i) identify additional variables that could be included in the database, either through the identification of new sources of data\nor through manipulation of existing variables in the database; (ii) to produce compelling visualizations of the panel data that can be used to compare how\ncountries are situated across multiple dimensions in relation to other countries; (iii) to enhance our understanding of how different institutional features are linked\nto particular climate and development policy outcomes.\n",
+    "additional_comments": "N/A"
+  },
+  "Proposed by": "World Bank",
+  "Proposed by email": "firstname_lastname@worldbank.org",
+  "instructor": "Amir Jafari & Edwin Lo",
+  "instructor1_email": "ajafari@gmail.com",
+  "instructor2_email": "edwinlo@gwu.edu",
+  "github_repo": "https://github.com/amir-jafari/Capstone"
+}

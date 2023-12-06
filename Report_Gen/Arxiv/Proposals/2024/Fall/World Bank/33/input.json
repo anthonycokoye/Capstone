@@ -1,0 +1,39 @@
+{
+  "Project Location": {
+    "Number": "33",
+    "Year": "2024",
+    "Semester": "Fall"
+  },
+  "Project Information": {
+    "WB_lead": "Michael Ilesanmi",
+    "unit_name": "Social Sustainability and Inclusion",
+    "project_name": "P161364 and P179447",
+    "project_lead": "Yes",
+    "team_members": "Audrey Sacks, Yetunde Fatogun, Fawah Akwo, Ida Mboob"
+  },
+  "Challenge": {
+    "challenge_location": "Nigeria",
+    "challenge_type": "NFWP utilizes Women Affinity Groups (WAGs), a variation of Self-Help Groups as platforms to build women\u2019s human, financial and social capital. The WAGs meet\non a regular basis to (a) save, pool their savings, and lend money to each other on a rotating basis start or expand business, pay for healthcare or education\nexpenses, or meet other financial needs.; (b) receive training in key areas such as financial education, business skills, negotiation, gender, and life skills etc. from\nWard Facilitators. As a result, membership of WAGs helps women:\ni. access to credit, savings, and insurance services that enable women to start and grow their businesses. This helps in generating income and achieving financial\nindependence, which leads to the economic empowerment of women\nii. improve the social status of women by giving them a voice in decision-making processes in their households and communities\niii. promote social capital by creating a supportive environment for women to share their experiences, ideas, and knowledge. This fosters self-esteem, self-confidence, and leadership skills, and enables women to participate in decision-making processes in their households and communities\niv. reduce poverty by providing an avenue for women to access credit and savings, thereby enabling them to invest in income-generating activities. This leads to\nincreased household income and improved standards of living.\nv. engage in advocacy and collective action to address broader social and economic issues affecting their community.\nWe would like to digitize the processes of the Women Affinity Groups under the Nigeria for Women project. It is expected that by automating calculations for\nsavings, loan repayments, fines, and savings balances, such applications will reduce time spent on financial transactions that are core to the WAGs.\n",
+    "solution_beneficiaries": "\nlow-income unbanked women\n            "
+  },
+  "Status and Timeline": {
+    "project_status": "Supervision\n            ",
+    "project_milestones": "\nThe NFWP Scale Up is expected to become effective by December 15 2023\n            ",
+    "lead_meeting": "Yes"
+  },
+  "Data": {
+    "dataset_size": "100GB\n",
+    "data_type": "\n1. Text\n            ",
+    "data_details": "\nWomen's savings data\n            ",
+    "STC_requirement": "Yes",
+    "data_sample": "Yes",
+    "ultimate_goal": "We hope the project can support the development of a digital savings group Application\n",
+    "additional_comments": "NIL"
+  },
+  "Proposed by": "World Bank",
+  "Proposed by email": "firstname_lastname@worldbank.org",
+  "instructor": "Amir Jafari & Edwin Lo",
+  "instructor1_email": "ajafari@gmail.com",
+  "instructor2_email": "edwinlo@gwu.edu",
+  "github_repo": "https://github.com/amir-jafari/Capstone"
+}

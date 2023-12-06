@@ -1,0 +1,39 @@
+{
+  "Project Location": {
+    "Number": "04",
+    "Year": "2024",
+    "Semester": "Fall"
+  },
+  "Project Information": {
+    "WB_lead": "Megersa Abate",
+    "unit_name": "Global Unit Transport",
+    "project_name": "P179939",
+    "project_lead": "Charles Kunaka",
+    "team_members": "Kisanet Haile Molla"
+  },
+  "Challenge": {
+    "challenge_location": "Africa",
+    "challenge_type": "The Transport Global Knowledge Unit is building a freight transport model to inform its investment prioritization and planning decision and respond to growing\nglobal challenges such as decarbonization, food transportation and logistics. The modeling work aims to provide a fresh, independent, and comprehensive view of\nconnectivity needs of client countries in these regions and their decision-making processes. It draws upon and seeks to integrate existing work that the World\nBank and other stakeholders have carried out on infrastructure and logistics connectivity and propose a purely technical approach to support the coordination and\nprioritization of projects.\nThe objective of the assignment is to update and continue further development of the transport model (FLOWMAX) and lay the ground for the detailed modelling\nthat needs to be carried out to identify and prioritize investments in trade and transport corridors linking parts of the MENA, SAR, North/East Africa and ECA to\ntheir main trade partners. It is also aims to apply FLOWMAX to assess the nexus of transport and food and fertilizer systems in Sub-Sharan Africa by defining a\ntransport connectivity and logistics infrastructure improvement program to strengthen the resilience of food and fertilizer systems in Sub-Saharan Africa (SSA).",
+    "solution_beneficiaries": "\nBank staff, policy makers in client countries and their citizens.\n            "
+  },
+  "Status and Timeline": {
+    "project_status": "Implementation n\n            ",
+    "project_milestones": "\nproject ending in FY24, but with possibility of extension\n            ",
+    "lead_meeting": "Yes"
+  },
+  "Data": {
+    "dataset_size": "100 GB",
+    "data_type": "\n1. Text\n2. Image\n3. Time series/Panel data\n4. Tabular\n            ",
+    "data_details": "\ntransport flows between regions, border crossing points\n            ",
+    "STC_requirement": "not at the movement.",
+    "data_sample": "Yes",
+    "ultimate_goal": "building a well functioning transport model",
+    "additional_comments": "NA"
+  },
+  "Proposed by": "World Bank",
+  "Proposed by email": "firstname_lastname@worldbank.org",
+  "instructor": "Amir Jafari & Edwin Lo",
+  "instructor1_email": "ajafari@gmail.com",
+  "instructor2_email": "edwinlo@gwu.edu",
+  "github_repo": "https://github.com/amir-jafari/Capstone"
+}
